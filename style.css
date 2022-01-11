@@ -1,0 +1,19 @@
+.heading{
+    width: 80%;
+    font-size: 45px;
+}
+body{
+    background:linear-gradient(to right,red,rgb(4, 173, 4),rgb(8, 174, 230));
+    color:white;
+}
+.name_of_objects{
+    color:black;
+    font-size:20px;
+    font-variant: small-caps;
+}
+#camera{
+    width: 350px;
+    height: 350px;
+    border: 2px dashed black;
+
+}
